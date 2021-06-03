@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Patern for true Protestants setting forth divers examples by way of encouragement to all the Kings subjects, to be liberal in their contributions towards the rebuilding of S. Pauls Cathedral London : fit to be made publick.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56719</idno><idno type="EEBO-CITATION">18679375</idno>
+  <idno type="VID">108163</idno>
+  <idno type="EEBO-PROQUEST">2240863757</idno>
+  
+            <idno type="STC">Wing P870</idno>
+            <idno type="STC">ESTC R40069</idno>
+            <idno type="OCLC">18679375</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1658:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Patern for true Protestants setting forth divers examples by way of encouragement to all the Kings subjects, to be liberal in their contributions towards the rebuilding of S. Pauls Cathedral London : fit to be made publick.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Burrel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">St. Paul's Cathedral (London, England)</term>
+               <term type="topical_term">Church architecture --  England --  London --  Conservation and restoration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108163:1"/>
+            <p>A PATERN FOR True Protestants.</p>
+            <p>
+               <hi>Setting forth</hi> Divers Examples by way of Encourage<g ref="char:EOLhyphen"/>ment to all the Kings Subjects, to be Li<g ref="char:EOLhyphen"/>beral in their Contributions towards the Rebuilding of S. Pauls Cathedral <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>Fit to be made Publick.</hi>
+            </p>
+            <p>On King <hi>IN A</hi> Building a Church.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Melchisedech noster meritò Rex atque Sacerdos,</hi>
+                  </l>
+                  <l>
+                     <hi>Complevit verae Religionis opus:</hi>
+                  </l>
+                  <l>
+                     <hi>Hinc abiens, illinc meritorum fulget honore,</hi>
+                  </l>
+                  <l>
+                     <hi>Hic quoque gestorum laude perennis erit.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Burrel,</hi> at the Golden Ball under S. <hi>Dunstans</hi> Church in Fleetstreet. 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108163:2"/>
+            <pb n="1" facs="tcp:108163:2"/>
+            <head>A Word for St. <hi>Pauls</hi> Cathedral, rising like a Phoenix out of its Ashes.</head>
+            <p>
+               <hi>ENGLAND</hi> for the magnificent and sumptu<g ref="char:EOLhyphen"/>ous building of Religious places, and the number of them, surpasses even those places that are most famous: and <hi>London</hi> for many stately Churches, and St. <hi>Pauls</hi> Cathedral now building, will be famous in all after Ages and Generations.</p>
+            <p>This famous Pile of Building was first founded by <hi>E<g ref="char:EOLhyphen"/>thelbert</hi> the first Christian King, and the sixth Monarch of the <hi>Saxons:</hi> and it was enlarged by the pious Bounty of <hi>Erkenwald</hi> the fourth Bishop of that See, above 1000 years since.</p>
+            <p>The Clergy and the People of <hi>England</hi> and <hi>Ireland</hi> con<g ref="char:EOLhyphen"/>tributed very largly to that great Work: the devout people of that <hi>primitive age</hi> were for the building of Chur<g ref="char:EOLhyphen"/>ches; whereas a sort of <hi>Mongrel Christians</hi> of this Age are for pulling of them down. They with a chearful heart and a liberal hand promoted that work, which men now out of a base sordid covetousness do what they can to hinder, with their <hi>Ad quid perditio haec?</hi>
+            </p>
+            <p>In the Year 1561 the work of long time and so many ages was in danger to have been consumed by a Fire, which was occasioned by the negligence of a <hi>Plumber,</hi> leaving his Pan of Coals in the <hi>Steeple,</hi> whiles he went to dinner, by which the <hi>Steeple</hi> was fired and burned down, not without great damage to the Roof of the <hi>Cathedral.</hi> The occasion of firing this Fabrick was attributed to <hi>Lightning,</hi> as if God had no great love for Buildings of that nature, the people of that Age in their common <hi>Al<g ref="char:EOLhyphen"/>manacks</hi> computing thus, <hi>Since St. Pauls Steeple was burnt by Lightning, &amp;c.</hi> The true Cause of this Fire being still
+<pb n="2" facs="tcp:108163:3"/> smothered till the <hi>Plumber</hi> came to die, and then (not da<g ref="char:EOLhyphen"/>ring before) did attest the truth of the premisses, as Dr. <hi>Heylin</hi> informs us, to whom we are beholding for light in many things of moment.</p>
+            <p>Some poor <hi>low-spirited</hi> Christians, that love that Reli<g ref="char:EOLhyphen"/>gion which is cheapest, could now have wish'd, that when their Ministers came to press them to a Contribution, that it had then perished to the very Foundation, that it might have sav'd them the expence of a Piece of Silver.</p>
+            <p>Q. <hi>Elizabeth</hi> gave towards the Repair of it 1000 Marks in Gold, and 1000 Load of Timber. The <hi>Citizens</hi> gave 3247 <hi>l.</hi> and upwards. The <hi>Clergie 1461 l.</hi> The <hi>Bishop of London</hi> near 1000 <hi>l.</hi> The <hi>Dean and Chapter,</hi> the <hi>Judges</hi> and Officers of the <hi>Kings Bench</hi> and <hi>Common Pleas</hi> gave very largely at that time. So that in 1566 it was all re<g ref="char:EOLhyphen"/>pair'd and made good again, save the <hi>Steeple,</hi> which was never built, but had been built if the <hi>Scottish Rebellion</hi> had not broke forth about <hi>Anno</hi> 1641. In which Wars the <hi>Fanaticks</hi> made this famous <hi>Temple</hi> a Stable for their Horses, a Garrison for their Souldiers; acting after the mode of that Prophanation of the Temple which Christ rebukes, <hi>It is written, &amp;c. but you have made it a den of thieves.</hi> And their Officers, as exceeding them in Digni<g ref="char:EOLhyphen"/>ty, so in Iniquity, said it, suffer'd it, and lov'd to have it so.</p>
+            <p>But 1620, K. <hi>James</hi> observing, that the Tower grew every day more and more out of Repair, granted his <hi>Royal Commission</hi> to divers Persons of Honour, to find out means how it might be repaired, it being the most emi<g ref="char:EOLhyphen"/>nent and principal Ornament of this Kingdom</p>
+            <p>The <hi>King</hi> and the <hi>Nobility</hi> gave vast Summes of Mo<g ref="char:EOLhyphen"/>ney to it. Dr. <hi>King</hi> then Bishop of <hi>London</hi> gave 100 <hi>l. per an.</hi> as long as he continued Bishop there. <hi>Montaigne</hi> procured vast quantities of Stone from <hi>Portland.</hi>
+            </p>
+            <p>But then comes B. <hi>Laud</hi> to the See; this glorious work was reserved for that <hi>great-spirited man,</hi> who gave 100 <hi>l.
+<pb n="3" facs="tcp:108163:3"/> per an.</hi> whiles he was Bishop there, and in a short time by his prudent management of this great Concern Moneys came flowing in apace, the <hi>Chamber of London</hi> then and now being the Treasury for this Work, was replenished with 5416 <hi>l.</hi> so that in <hi>April</hi> 1631 the Work begun.</p>
+            <p>The Ministers in those times gave commonly the tenth part of their Spiritual Promotions, some more, the fifth part. There was then (as now) a publick Contributi<g ref="char:EOLhyphen"/>on, which was but for the Repair of this <hi>magnificent Stru<g ref="char:EOLhyphen"/>cture,</hi> that amounted to very much above 100000 <hi>l.</hi> as appears upon Accompt.</p>
+            <p>K. <hi>Charles</hi> the First and Last gave above 10000 <hi>l.</hi> to it. Sir <hi>Paul Pindar</hi> contributed much to the Beautifying thereof, setting up the Statues of the <hi>Norman Kings,</hi> who had been great Benefactors to it, bestowing moreover a<g ref="char:EOLhyphen"/>bove 4000 <hi>l.</hi> upon the Cross Isle.</p>
+            <p>Before the <hi>Scottish Rebellion</hi> brake forth, the Contribu<g ref="char:EOLhyphen"/>tion amounted to 15000 <hi>l. per an.</hi> which afterwards as the Wars increased abated to 1500 <hi>l. per an.</hi> and suddenly by degrees to less, to little, to nothing at all. So great Enemies are <hi>Rebels</hi> to Religion, though that's their Holy<g ref="char:EOLhyphen"/>day Cloke.</p>
+            <p>This vast Structure (<hi>the Cities famous Ornament</hi>) was in times of <hi>Popery</hi> maintained, and kept in Repair by such Monies as were given by them, that came to visit the <hi>Shrines and Reliques</hi> of that place, according to the pi<g ref="char:EOLhyphen"/>ous Devotion of that Age: Shall the <hi>darkness</hi> of those times <hi>outshine</hi> the <hi>light</hi> that we live under?</p>
+            <p>By that which has been said it appears, that there was a Contribution made of above 100000 <hi>l.</hi> which was but for the Repair of this Fabrick; what then in any mans Judgment must the new building it from the Foundati<g ref="char:EOLhyphen"/>on cost?</p>
+            <p>The <hi>Kings Majesty</hi> recommends it to your Charity, and will you deny him who has been the <hi>Repairer of our brea<g ref="char:EOLhyphen"/>ches?</hi>
+            </p>
+            <pb n="4" facs="tcp:108163:4"/>
+            <p>The <hi>City of London,</hi> which has been sadly exhausted by building their <hi>Parochial Churches,</hi> and other publick Buildings, desires (which otherwise would scarce ask) your help. The Trade that all the Kingdom (especially places that are adjacent) hath with this <hi>Metropolis,</hi> that taking the Commodities of the Countrey, and the Coun<g ref="char:EOLhyphen"/>trey again taking its Money, may justly expect something from every one that it able; <hi>especially</hi> seeing the <hi>City</hi> hath been always ready and liberal upon the like occasions to extend their help to you.</p>
+            <p>Remember 'tis the great <hi>ornament and splendour</hi> of this Kingdom, set your helping hands to the building of it up again, thereby shewing your selves to be true <hi>Englishmen.</hi> Don't say as the <hi>Edomites</hi> concerning <hi>Jerusalem</hi> and the <hi>Temple, Down with it, down with it, even to the ground.</hi> There's no doubt but the <hi>Reverend Prelats,</hi> all dignified persons, (especially the <hi>Dean and Chapter</hi> of that See) have done to their Ability, being therein Exemplary to all <hi>Clergie-men.</hi>
+            </p>
+            <p>I have hopes that the inferiour Clergy will readily imi<g ref="char:EOLhyphen"/>tate their good Examples. Remember we had not en<g ref="char:EOLhyphen"/>joy'd our <hi>Churches</hi> but by <hi>His</hi> means, who so passionately desires that this Work may prosper; O never let our <hi>backwardness</hi> to so good a Work, cast that Aspersion upon the first Undertakers, as was upon the <hi>foolish Builder</hi> in the Gospel, that began and was not able to finish.</p>
+            <p>We have some that would be accounted <hi>Clergie-men,</hi> (Ministers of the Gospel they call themselves; <hi>Gifted Men</hi> they are, but they'l keep their Gifts for themselves and theirs) that have Monies (and too much) to foster and nurse up <hi>Rebellion, Sedition, and Schism</hi> amongst us, that do <hi>aedificare in ruinam,</hi> that are liberal of it even to prodi<g ref="char:EOLhyphen"/>gality for those destructive ends: If we should ask any thing of them to this great, this good Work, they cry out in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Grammar Language, <hi>Parcamus pecuniae.</hi>
+            </p>
+            <pb n="5" facs="tcp:108163:4"/>
+            <p>These men have their <hi>little Churches</hi> in Great mens Houses, and do affront this by alienating the minds of others from it, because they themselves are unwilling.</p>
+            <p>And for the <hi>puny Fanaticks</hi> of inferiour <hi>classes (your ill-bred Brood</hi>) we may sooner expect the building of it by a Miracle, than to get any thing from them.</p>
+            <p>In former times the <hi>Ancients</hi> wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to erect <hi>Sta<g ref="char:EOLhyphen"/>tues</hi> to the Honour of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch as had do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e any thing Famous for their Countrey; certainly we must build <hi>Gallows</hi> for such as are <hi>stubborn, irregular, unnatural, and disobedient</hi> Children to their <hi>Political Father the King,</hi> and their <hi>Spi<g ref="char:EOLhyphen"/>ritual Mother the Church,</hi> that will do nothing for either, but all things in opposition to both.</p>
+            <p>
+               <hi>You</hi> of all the people in the Kingdom can make brea<g ref="char:EOLhyphen"/>ches and faults in <hi>our Churches,</hi> but you'l mend none. <hi>You</hi> have greater Privileges than any other of His Maje<g ref="char:EOLhyphen"/>sties Subjects; to that purpose you <hi>un-Church</hi> your selves: <hi>pray,</hi> do you expect to be of the <hi>Church Trium<g ref="char:EOLhyphen"/>phant</hi> in Heaven, when you voluntarily excommunicate your selves out of the <hi>Church Militant</hi> here on earth? <hi>Ʋn<g ref="char:EOLhyphen"/>dutiful Children!</hi> that call your <hi>Mother</hi> Whore; <hi>Ʋnchari<g ref="char:EOLhyphen"/>table people!</hi> that would go to <hi>Heaven</hi> alone, though we are not willing to go without you.</p>
+            <p>There was never so much vanity and lavishness shew'd in <hi>building our own Houses,</hi> as in these days: many have built themselves <hi>out of doors,</hi> so that they have nothing to give; <hi>a just Judgment</hi> and <hi>a sore Evil,</hi> to such as dwell in Ceiled Houses, and let <hi>Gods House</hi> lie waste for so many years.</p>
+            <p>And now again a <hi>Word</hi> to you <hi>my Brethren of the Cler<g ref="char:EOLhyphen"/>gie,</hi> all or the greatest of my hopes is in you; methinks I I see a forwardness and willingness in you to this work: there are none so fit for <hi>Church-work as Church-men.</hi> But perhaps some of you may object, that this <hi>Adviso</hi> comes too late, the Subscriptions are over in many places alrea<g ref="char:EOLhyphen"/>dy.
+<pb n="6" facs="tcp:108163:5"/> No question of it <hi>your Subscriptions</hi> will be accept<g ref="char:EOLhyphen"/>able at any time, and <hi>your Reward</hi> will be equal with them that went before you. If you come in at the <hi>eleventh hour</hi> of the day, your labour will be as grateful as theirs that came in at the <hi>first hour.</hi> Help forward the <hi>Lords work</hi> against the mighty Oppositions made (and never made till these late Licentious Times) against <hi>Churches and Church-men.</hi> If you subscribe according to your Ability, and I may live to see the <hi>Top-stone</hi> laid, I shall be ready to say, <hi>Lord, now lettest thou thy Servant depart, &amp;c.</hi> I have my end, and so has this short Discourse.</p>
+            <closer>
+               <salute>Valete in Domino.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
